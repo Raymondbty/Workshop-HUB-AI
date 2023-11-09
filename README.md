@@ -6,6 +6,7 @@ This workshop will guide you through creating a simplified chess AI using Python
 
 ## Prerequisites
 
+# INSTALL PYTORCH BEFORE THE WORKSHOP IT TAKES HELLA TIME
 - Basic knowledge of Python.
 - Python and PyTorch installed.
 - [python-chess](https://python-chess.readthedocs.io/en/latest/) for chess game manipulation.
