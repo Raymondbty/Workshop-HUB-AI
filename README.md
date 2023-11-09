@@ -159,6 +159,16 @@ We will use the python-chess library for manipulating chess games in Python. To 
 
 - **Link:** [PythonChess Installation](https://python-chess.readthedocs.io/en/latest/)
 
-You can find minimal code examples for each step below:
+## 4. pandas (Data Manipulation and Analysis)
 
-(link)
+- **Link:** [pandas Installation](https://pandas.pydata.org/)
+
+The pandas library is a versatile tool for data manipulation and analysis. We will use it for this workshop, here's the command:
+
+```
+pip install pandas
+```
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Workshop by Amaury Bariety & Pierre-Louis Leroy
